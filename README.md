@@ -6,6 +6,6 @@ Steps:
 1) Download & Install Chrome 96
 2) Download & Install Python 3 Or Above
 3) Install Python Module Using CMD: pyside2, selenium
-'''
+```
 pip install moduleName
-'''
+```
