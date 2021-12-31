@@ -8,7 +8,7 @@ import shutil
 
 class App():
     def __init__(self):
-        uifile = QFile("main_zh.ui")
+        uifile = QFile("main_en.ui")
         uifile.open(QFile.ReadOnly)
         uifile.close()
 
