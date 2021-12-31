@@ -14,8 +14,8 @@ pip install moduleName
 6) Enter URL, Target(eg. ID, Class...), Choose Target Type (Only Have ID,      Class, Style, CSS Selector And Name Currently)
 7) Click The *Get Text* Button To Get Text
 
- *Get Image* Button: Get All Images From This Website *(But Some Websites Not Work)*
- If you just using *Get Image*, you only need to enter URL.
+ - *Get Image* Button: Get All Images From This Website *(But Some Websites Not Work)*
+ - If you just using *Get Image*, you only need to enter URL.
 
 ### Bugs:
 
