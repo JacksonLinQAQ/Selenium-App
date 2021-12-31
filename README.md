@@ -9,7 +9,7 @@ It is a app that you can get texts from a website by id, class name, name or css
 ```
 pip install moduleName
 ```
-4) Download & Extract The [Selenium-App]() Zip Folder
+4) Download & Extract The [Selenium-App](https://github.com/JacksonLinQAQ/Selenium-App/archive/refs/heads/main.zip) Zip Folder
 5) Run The *main.py* File
 6) Enter URL, Target(eg. ID, Class...), Choose Target Type (Only Have ID,      Class, Style, CSS Selector And Name Currently)
 7) Click The *Get Text* Button To Get Text
